@@ -1,0 +1,7 @@
+Keys: 
+
+Select 	:	640
+Left   	: 	409
+Up	:	100/101
+Right	:	0
+Down	:	256
