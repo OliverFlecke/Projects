@@ -8,7 +8,7 @@ PIDController::PIDController()
   this->Kp = 1;
   this->Ki = 0;
   this->Kd = 0;
-  std::cout << "New PIDColler Object has been created" << std::endl;
+  // std::cout << "New PIDColler Object has been created" << std::endl;
 }
 
 /// <summary>
